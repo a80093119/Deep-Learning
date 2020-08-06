@@ -1,0 +1,42 @@
+Episode:      1, interaction_steps:   2048, reward: 10, epsilon: 0.996314
+Evaluation: True, episode:      1, interaction_steps:   2048, evaluate reward:  5Episode:      2, interaction_steps:   4096, reward:  9, epsilon: 0.992627
+Episode:      3, interaction_steps:   6144, reward: 10, epsilon: 0.988941
+Episode:      4, interaction_steps:   8192, reward:  9, epsilon: 0.985254
+Episode:      5, interaction_steps:  10240, reward: 12, epsilon: 0.981568
+Episode:      6, interaction_steps:  12288, reward: 10, epsilon: 0.977882
+Episode:      7, interaction_steps:  14336, reward: 12, epsilon: 0.974195
+Episode:      8, interaction_steps:  16384, reward: 12, epsilon: 0.970509
+Episode:      9, interaction_steps:  18432, reward: 11, epsilon: 0.966822
+Episode:     10, interaction_steps:  20480, reward: 12, epsilon: 0.963136
+Episode:     11, interaction_steps:  22528, reward: 12, epsilon: 0.959450
+Evaluation: True, episode:     11, interaction_steps:  22528, evaluate reward:  0Episode:     12, interaction_steps:  24576, reward: 12, epsilon: 0.955763
+Episode:     13, interaction_steps:  26624, reward:  8, epsilon: 0.952077
+Episode:     14, interaction_steps:  28672, reward: 11, epsilon: 0.948390
+Episode:     15, interaction_steps:  30720, reward: 12, epsilon: 0.944704
+Episode:     16, interaction_steps:  32768, reward: 12, epsilon: 0.941018
+Episode:     17, interaction_steps:  34816, reward:  9, epsilon: 0.937331
+Episode:     18, interaction_steps:  36864, reward: 10, epsilon: 0.933645
+Episode:     19, interaction_steps:  38912, reward: 11, epsilon: 0.929958
+Episode:     20, interaction_steps:  40960, reward:  7, epsilon: 0.926272
+Episode:     21, interaction_steps:  43008, reward:  9, epsilon: 0.922586
+Evaluation: True, episode:     21, interaction_steps:  43008, evaluate reward:  0Episode:     22, interaction_steps:  45056, reward: 10, epsilon: 0.918899
+Episode:     23, interaction_steps:  47104, reward: 11, epsilon: 0.915213
+Episode:     24, interaction_steps:  49152, reward:  8, epsilon: 0.911526
+Episode:     25, interaction_steps:  51200, reward: 10, epsilon: 0.907840
+Episode:     26, interaction_steps:  53248, reward: 12, epsilon: 0.904154
+Episode:     27, interaction_steps:  55296, reward: 10, epsilon: 0.900467
+Episode:     28, interaction_steps:  57344, reward:  9, epsilon: 0.896781
+Episode:     29, interaction_steps:  59392, reward:  9, epsilon: 0.893094
+Episode:     30, interaction_steps:  61440, reward: 11, epsilon: 0.889408
+Episode:     31, interaction_steps:  63488, reward: 10, epsilon: 0.885722
+Evaluation: True, episode:     31, interaction_steps:  63488, evaluate reward:  0Episode:     32, interaction_steps:  65536, reward:  9, epsilon: 0.882035
+Episode:     33, interaction_steps:  67584, reward: 11, epsilon: 0.878349
+Episode:     34, interaction_steps:  69632, reward:  9, epsilon: 0.874662
+Episode:     35, interaction_steps:  71680, reward: 10, epsilon: 0.870976
+Episode:     36, interaction_steps:  73728, reward:  8, epsilon: 0.867290
+Episode:     37, interaction_steps:  75776, reward: 12, epsilon: 0.863603
+Episode:     38, interaction_steps:  77824, reward:  9, epsilon: 0.859917
+Episode:     39, interaction_steps:  79872, reward:  6, epsilon: 0.856230
+Episode:     40, interaction_steps:  81920, reward: 10, epsilon: 0.852544
+Episode:     41, interaction_steps:  83968, reward:  9, epsilon: 0.848858
+Evaluation: True, episode:     41, interaction_steps:  83968, evaluate reward:  1
